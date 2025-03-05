@@ -1,1 +1,1 @@
-**GoAdventure** is an interactive platform that combines urban exploration and adventure storytelling through gamebooks. It features a web app for creating gamebooks and a mobile app that lets players experience these stories in real-time, navigating the city using GPS.
+**GoTale** is an interactive platform that combines urban exploration and adventure storytelling through gamebooks.
